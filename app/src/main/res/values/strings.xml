@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_default">Questions will go here!</string>
+    <string name="question_1">PHP variables require the keyword var.</string>
+    <string name="question_2">Text content can be displayed in a HTML paragraph.</string>
+    <string name="question_3">JavaScript is a compiled language.</string>
+</resources>
